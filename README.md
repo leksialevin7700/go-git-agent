@@ -1,1 +1,1 @@
-# Digital Ghost of Your GitHub 👻
+Digital Ghost of Your GitHub 👻
